@@ -1,10 +1,8 @@
-// Seleção de elementos do DOM
 const container = document.querySelector(".container");
 const qrCodeBtn = document.querySelector("#qr-form button");
 const qrCodeInput = document.querySelector("#qr-form input");
 const qrCodeImg = document.querySelector("#qr-code img");
 
-// Função para gerar o QR code
 function genereteQrcCode() {
   const qrCodeInputValue = qrCodeInput.value;
 
@@ -40,7 +38,6 @@ qrCodeInput.addEventListener("keydown", (e) => {
   }
 });
 
-// Evento para limpar o QR code quando o campo de entrada for apagado
 qrCodeInput.addEventListener("keyup", () => {
   
   if (!qrCodeInput.value) {
