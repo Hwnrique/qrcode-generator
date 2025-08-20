@@ -1,6 +1,6 @@
 <h1 align="center" style="border=none">Gerador de QR Code</h1>
 
-<h3 align="center">Projeto da comunidade "Hora de Codare", utilizando API para criação dos seus próprios QR Codes</h3>
+<h3 align="center">Projeto da comunidade "Hora de Codar", utilizando API para criação dos seus próprios QR Codes</h3>
 
 <p align="center">Tomei a liberdade de adicionar uma função extra. O projeto original não vem com a função de download, e no cotidiano do meu trabalho acabei por precisar dessa função. Então eu pensei: "Por que não criar e melhorar o projeto?" e eis o resultado final. Aproveite
  e escaneie o QR Code abaixo para se conectar comigo no LinkedIn :D</p>
